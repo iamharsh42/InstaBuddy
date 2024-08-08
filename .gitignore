@@ -1,0 +1,3 @@
+/Client/node_modules
+/Client/.env.local
+/Client/next-env.d.ts
